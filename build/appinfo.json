@@ -1,0 +1,30 @@
+{
+    "displayName": "pebble-coffee",
+    "uuid": "76b73568-80e6-4bc2-aa99-f09cef8bf756",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk",
+        "diorite"
+    ],
+    "watchapp": {
+        "watchface": false
+    },
+    "messageKeys": {
+        "dummy": 10000
+    },
+    "resources": {
+        "media": []
+    },
+    "name": "pebble-coffee",
+    "shortName": "pebble-coffee",
+    "longName": "pebble-coffee",
+    "versionLabel": "1.0",
+    "companyName": "MakeAwesomeHappen",
+    "appKeys": {
+        "dummy": 10000
+    },
+    "capabilities": []
+}
